@@ -8,4 +8,4 @@ Built with:
 - Sass, node-sass
 - High esthetic
 
-https://www.cywinski.pro/flexbox/hotelApp/
+
